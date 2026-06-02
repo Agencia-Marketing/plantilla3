@@ -67,6 +67,8 @@ Todo el contenido es editable desde **`/admin`** sin tocar código. Vive como JS
 
 ## Crear un sitio nuevo
 
+> 📋 Guía detallada paso a paso para montar el sitio de un cliente: **[`MONTAR-CLIENTE.md`](MONTAR-CLIENTE.md)**
+
 1. Duplica el repo.
 2. Marca → edita `src/config/theme.mjs` (colores, fuentes + `googleHref`, logo).
 3. Contenido → edita en `/admin` o los JSON de `src/content/`.
